@@ -20,5 +20,6 @@ module DUT (
   //   .S  (S),
   //   .Y  (Y)
   // );
+  // this is for option 2 and it should be done
 
 endmodule
